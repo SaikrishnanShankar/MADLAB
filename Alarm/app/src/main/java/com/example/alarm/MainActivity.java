@@ -83,7 +83,7 @@ public class MainActivity extends AppCompatActivity {
             }
         }, 0, 1000);
 
-    
+
     }
 
     public String getAlarmTime(){
